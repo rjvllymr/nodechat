@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hangoutchat-211504",
+  "private_key_id": "b7286cdc24f8896bbd83eb6a9298c91f83b8014b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDB64KzYJg6XEbb\nOFckXgir88q3l8J7HWwG2QX+KJsUvY4tuwIMGpNZjxKf0xPuS0iFPNHtwhnLXKiL\nXhPLrtXa274OHB2+lbKyCDLGeLgQwJJv51e8GRU3x4Dm09gxAbxM22lfIJYremEG\nZAM1VUEg62p3IHSDCrYCM74LEt2ICiJkjqfP5nrAXs8c5xlRaimYySN+w3hOvomc\nM6+wBRrBwXZxtM+8u4bTGy40OpPxSsJ1hMnfCwNC50WSiIT59N8tybq53Jr7wg64\nxPx27ssx+SjQuNqocz7KOqWP3ZgGGUUoIQTXHcfAbmmSG7eoUDe6tqE2GXJtKxRf\nEL2/maKDAgMBAAECggEARD93s1vGl5uMUHDmsmTp1mKpsK2Xg67aKxrMMiPmWIlR\n9aRAVzQvMbDZ1Cf8drxGHKZIF85dN6Y3pz0H6IJyv2Dg5aRdj4qt5lxeSl2IIlUz\n9HBN/2QwhH4RTqu2BaFfvQjnb9RPJaQfa5ldS7Lihgx0XtKsTsZBQkslkk4ka1DQ\n62j00Ze8RfSnz91oAnuDjcUzvracCIWSQhVtbEC/7EBU5VoapxqqMvxly7ibIiJ9\n27GGgwx4f+LCqXrpG26laYOKjU0k42xgngdF0KCUXY66lL/ccUDRvNtPohx63xt0\n+xceXfLwsuTNCgaI3iK+l9fCVEQpC1X3/qAIiBUWsQKBgQDhw2ThUlCHvkJYyu2C\n35Fa/vI5jt4akSHBZUyYNiFgc+xd820v0bdRjpQgZUom2wF8LEdaOewQUzwGH1+P\nrvFeEcK8+W6BigbqoKWantZ5vhktfiWa9ijv/lLyK6L26gmeTwzFTZcSIf09Gdsi\n8LSe3UIzlrinkb5jg3qvrm4qeQKBgQDb5FM0pImNlqDryXcQZDNJRpllpfM1o2ac\nJ62jJn0/g9lHRKz1iK+vcGJrGD559CknaAv3HSV68LLBfrUwOasoUK6KwYhB/nQB\nsZcyyQHJgn3JZ502sZ8VI/QU9W/WpR6wpHI64s2/VRrhE2Cojg6kWJhU8B5OOF42\nyJs/YQJ12wKBgFL+/y4qkbplgoScDZboU8qNIUVxtUs1AaDUecUXWUvZMhMT85b5\n1Rfhf6ktM4Z3SuN4b77Gvnb98noZvIrY+JjplJreY/axZHuLFXZzYEufTChCUNbY\nGhKof5vR2PZG8cRGMV6zeI9M+Ykl4T7GGNCybK0Egtvvo3t4EXlWed+ZAoGBANdj\noMko/oANctVjg1gv/jihifKSilgZFZKSHzh3pCnJ+dQghhcAa666s/zZQ6Frs8Ag\n38+P4j25di+o8MwrQOd9mGrcRZ73IyThkwww7qo3QwU8lDeV5xDrJdQ90e370cMP\nYcEiloz7TRf5Ri308Iy1J4nTpqvR9R9Ogxui56kPAoGBAMF+SfxyXSulOjpeVxfd\nEcL+/4QIWPjLMN/dcJJNYPEewmkcD3s98JfXzZ3JK49Bk120t95TVXYc5wk1L+xa\nsYv03luXpT5WP8ORPHdeisIhST+jc0aPS38sEQMdiySnT0ytcpusUU2LuTZmfR55\nDbyiNvg2O0OBxBOLVB4po/7p\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@hangoutchat-211504.iam.gserviceaccount.com",
+  "client_id": "102500136655832238494",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40hangoutchat-211504.iam.gserviceaccount.com"
+}
