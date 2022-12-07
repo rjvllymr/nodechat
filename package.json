@@ -13,7 +13,7 @@
     "debug": "~2.6.9",
     "dotenv": "^6.0.0",
     "ejs": "~2.5.7",
-    "express": "~4.15.5",
+    "express": "~4.17.3",
     "google-auth-library": "^1.6.1",
     "google-spreadsheet": "^2.0.5",
     "googleapis": "^27.0.0",
